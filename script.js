@@ -1,5 +1,5 @@
 /**
- * SANCT-PETERSBURG 320 - MAIN JAVASCRIPT
+ * SANKT-PETERSBURG: SOUL OF NEVA - MAIN JAVASCRIPT
  * Features:
  * - GSAP ScrollTrigger & Smooth Animations
  * - Interactive Leaflet Map with 12 Route Stops & Polyline
@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "6. Летний сад и Дворец Петра I",
             coords: [59.9449, 30.3355],
             category: "Парковое искусство",
-            image: "https://images.unsplash.com/photo-1513326718677-b964603b136d?auto=format&fit=crop&w=1200&q=80",
+            image: "https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?auto=format&fit=crop&w=1200&q=80",
             imageCaption: "Аллеи Летнего сада и знаменитая решетка",
             description: "Старейший парк Санкт-Петербурга, заложенный по повелению Петра I в 1704 году как летняя царская резиденция. Парк известен мраморными итальянскими скульптурами, фонтанами и изящной оградой архитектора Юрия Фельтена.",
             significance: "Эталон барочного садово-паркового искусства XVIII века и любимое место прогулок Петербургской интеллигенции."
@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "7. Петропавловская крепость и Заячий остров",
             coords: [59.9502, 30.3164],
             category: "Колыбель города",
-            image: "https://images.unsplash.com/photo-1558642084-fd07fae5282e?auto=format&fit=crop&w=1200&q=80",
+            image: "https://images.unsplash.com/photo-1561542320-9a18cf340450?auto=format&fit=crop&w=1200&q=80",
             imageCaption: "Шпиль Петропавловского собора на фоне Невы",
             description: "Заложена 27 мая 1703 года — именно этот день считается днем рождения Санкт-Петербурга. В центре крепости расположен Петропавловский собор со шпилем высотой 122,5 м, увенчанным фигурой летящего ангела. Собор служит усыпальницей русских царей от Петра I до Николая II.",
             significance: "Исторический ядро города, фортификационный шедевр и усыпальница Дома Романовых."
@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "8. Стрелка Васильевского острова и Биржа",
             coords: [59.9436, 30.3060],
             category: "Ансамбль & Вид",
-            image: "https://images.unsplash.com/photo-1548834925-e48f8a27ae6f?auto=format&fit=crop&w=1200&q=80",
+            image: "https://images.unsplash.com/photo-1513326718677-b964603b136d?auto=format&fit=crop&w=1200&q=80",
             imageCaption: "Ростральные колонны и здание Биржи",
             description: "Градостроительный ансамбль, где река Нева делится на Большую и Малую. Две Ростральные колонны высотой 32 м украшены рострами (носами) захваченных вражеских кораблей и аллегорическими фигурами великих русских рек: Волги, Днепра, Волхова и Невы.",
             significance: "Символ Санкт-Петербурга как морского порта и торговой столицы Российской империи."
@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "9. Кунсткамера и Здание 12 коллегий",
             coords: [59.9414, 30.3045],
             category: "Наука & Образование",
-            image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=1200&q=80",
+            image: "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
             imageCaption: "Здание Кунсткамеры — Музея антропологии и этнографии",
             description: "Первый музей России, основанный Петром I в 1714 году для сбора и исследования анатомических редкостей и этнографических предметов. Рядом расположено здание Двенадцати коллегий — ныне главный корпус Санкт-Петербургского государственного университета (СПбГУ).",
             significance: "Родоначальник всей российской музейной науки и Академии наук."
@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "10. Крейсер «Аврора»",
             coords: [59.9554, 30.3378],
             category: "Морская история",
-            image: "https://images.unsplash.com/photo-1513326718677-b964603b136d?auto=format&fit=crop&w=1200&q=80",
+            image: "https://images.unsplash.com/photo-1548834925-e48f8a27ae6f?auto=format&fit=crop&w=1200&q=80",
             imageCaption: "Легендарный крейсер 1-го ранга «Аврора» у Петроградской набережной",
             description: "Крейсер 1-го ранга Балтийского флота, принявший участие в Русско-японской и Первой мировой войнах. Холостой выстрел с «Авроры» 25 октября 1917 года послужил сигналом к штурму Зимнего дворца и началу Октябрьской революции.",
             significance: "Корабль-музей, поворотный символ отечественной и мировой истории XX века."
@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "11. Мариинский театр и Театральная площадь",
             coords: [59.9257, 30.2961],
             category: "Опера & Балет",
-            image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=1200&q=80",
+            image: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
             imageCaption: "Здание Мариинского театра",
             description: "Один из ведущих музыкальных театров мира, открытый в 1860 году. Здесь состоялись премьеры опер Мусоргского, Чайковского, Римского-Корсакова и балетов Петипа. Театр подарил миру величайших артистов от Шаляпина до Улановой и Плисецкой.",
             significance: "Храм русского балета и оперного искусства, задающий мировые стандарты исполнительства."
@@ -132,7 +132,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "12. Никольский Морской собор и Новая Голландия",
             coords: [59.9224, 30.2997],
             category: "Душа Коломны",
-            image: "https://images.unsplash.com/photo-1520106212299-d99c443e4568?auto=format&fit=crop&w=1200&q=80",
+            image: "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80",
             imageCaption: "Никольский собор и рукотворный остров Новая Голландия",
             description: "Николо-Богоявленский Морской собор — выдающийся памятник елизаветинского барокко, традиционно окормляющий моряков Российского флота. Неподалеку расположен остров Новая Голландия — уникальный памятник промышленной архитектуры XVIII века, превращенный в современное культурное пространство.",
             significance: "Сердце исторического района Коломна, объединяющее духовную веру моряков и современную креативную жизнь города."
@@ -151,17 +151,27 @@ document.addEventListener('DOMContentLoaded', () => {
         const mapContainer = document.getElementById('leafletMap');
         if (!mapContainer) return;
 
-        // Centered over St. Petersburg
+        const isTouchDevice = ('ontouchstart' in window) || (navigator.maxTouchPoints > 0);
+
+        // Centered over St. Petersburg with touch optimization
         map = L.map('leafletMap', {
             center: [59.9386, 30.3141],
             zoom: 13,
-            scrollWheelZoom: false
+            scrollWheelZoom: false,
+            dragging: !isTouchDevice || window.innerWidth > 768,
+            tap: !isTouchDevice
         });
 
-        // Apple-style Dark Map Tiles via CartoDB Dark Matter
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-            subdomains: 'abcd',
+        if (isTouchDevice && window.innerWidth <= 768) {
+            // Enable dragging on map when user taps map container
+            mapContainer.addEventListener('touchstart', () => {
+                map.dragging.enable();
+            });
+        }
+
+        // Standard OpenStreetMap Tiles (Free, No API Key Required)
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
             maxZoom: 19
         }).addTo(map);
 
